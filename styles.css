@@ -1,0 +1,48 @@
+html {
+    background-color: dimgray;
+}
+
+
+h1 {
+    margin-bottom: 50px;
+}
+
+.mainHeader {
+    display: flex;
+    justify-content: center;
+    color: aquamarine;
+    font-size: 5rem;
+    
+}
+
+.players {
+    display: flex;
+    justify-content: center;
+    color: aquamarine;
+    font-size: 1.5rem;
+
+
+}
+
+.playerOne {
+    padding-right: 50px;
+    text-align: center;
+}
+.playerTwo {
+    padding-left: 50px;
+    text-align: center;
+}
+
+.dice {
+    display: flex;
+    justify-content: center;
+}
+
+
+.footerDiv {
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+    color: white;
+    font-size: 1.5rem;
+}
